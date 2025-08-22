@@ -1,0 +1,2 @@
+class ZKGUException(Exception):
+    pass
